@@ -69,12 +69,13 @@
 /* header区域 */
 .header{
   background-color: #fff;
+  border-bottom:1px solid #ddd;
 }
 .header .w{
   position: relative;
   height: 140px;
   background-color: #fff;
-  border-bottom:1px solid #ddd;
+  
 }
 .logo{
   position: absolute;
